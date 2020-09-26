@@ -1,5 +1,8 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Test Analysis
 
+## SAT State Participation Analysis, 2017-2018
+by Adrian Chapman
+
 ### Problem Statement
 
 Increasingly, many colleges are adopting new policies to make standardized testing optional for admittance.  Despite this challenge, the College Review has found fertal ground for the SAT positioning it as a more useful alternative to federally required Common Core tests, which have no utility whatsoever for college applications.
@@ -28,7 +31,7 @@ The features used in analysis are described below:
 
 ### Analysis
 
-Through EDA and Data Visualization, this compares state participation in the SAT and ACT test from the years 2017 to 2019. While the ACT still has more states with 100% participation, the SAT has strong momentum in winning over previously ACT dominated states, and making strong inroads in states that have not made either the ACT or SAT a requirement yet.
+Through EDA and Data Visualization, this study compares state participation in the SAT and ACT test from the years 2017 to 2019. While the ACT still has more states with 100% participation, the SAT has strong momentum in winning over previously ACT dominated states, and making strong inroads in states that have not made either the ACT or SAT a requirement yet.
 
 
 ---
@@ -41,4 +44,3 @@ Based on the data exploration presented, there are 3 viable strategies that can 
 2. Continue to capitalize on weakening ACT markets.  South Carolina has dropped 22% in ACT participation and SAT is close to becoming the preferred test.  Alaska has dropped 27%.  Missouri, Michigan and Hawaii also have double digit drops and could make excellent targets.
 3. Follow through with the momentum already established.  In addition to Illinois and Colorado, SAT has also pushed West Virginia, Rhode Island and Florida to 100% participation in 3 years.  ACT only gained one state, Ohio, over the same period. The SAT can follow through with double digit positive participation growth in large markets such as Maryland, New York, New Jersey, California, and Georgia to find continued success.
 
----
