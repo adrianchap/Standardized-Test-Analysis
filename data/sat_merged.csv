@@ -1,0 +1,52 @@
+state_17_sat,participation_17_sat,erw_17_sat,math_17_sat,total_17_sat,state_18_sat,participation_18_sat,erw_18_sat,math_18_sat,total_18_sat,state_19_sat,participation_19_sat,erw_19_sat,math_19_sat,total_19_sat
+Alabama,0.05,593,572,1165,Alabama,0.06,595,571,1166,Alabama,0.07,583,560,1143
+Alaska,0.38,547,533,1080,Alaska,0.43,562,544,1106,Alaska,0.41,556,541,1097
+Arizona,0.3,563,553,1116,Arizona,0.29,577,572,1149,Arizona,0.31,569,565,1134
+Arkansas,0.03,614,594,1208,Arkansas,0.05,592,576,1169,Arkansas,0.06,582,559,1141
+California,0.53,531,524,1055,California,0.6,540,536,1076,California,0.63,534,531,1065
+Colorado,0.11,606,595,1201,Colorado,1.0,519,506,1025,Colorado,1.0,518,506,1024
+Connecticut,1.0,530,512,1041,Connecticut,1.0,535,519,1053,Connecticut,1.0,529,516,1046
+Delaware,1.0,503,492,996,Delaware,1.0,505,492,998,Delaware,1.0,499,486,985
+District of Columbia,1.0,482,468,950,District of Columbia,0.92,497,480,977,District of Columbia,0.94,495,480,975
+Florida,0.83,520,497,1017,Florida,0.56,550,549,1099,Florida,1.0,516,483,999
+Georgia,0.61,535,515,1050,Georgia,0.7,542,522,1064,Georgia,0.71,538,519,1058
+Hawaii,0.55,544,541,1085,Hawaii,0.56,480,530,1010,Hawaii,0.54,550,550,1100
+Idaho,0.93,513,493,1005,Idaho,1.0,508,493,1001,Idaho,1.0,505,488,993
+Illinois,0.09,559,556,1115,Illinois,0.99,513,506,1019,Illinois,1.0,509,504,1013
+Indiana,0.63,542,532,1074,Indiana,0.63,542,532,1074,Indiana,0.66,543,537,1080
+Iowa,0.02,641,635,1275,Iowa,0.03,634,631,1265,Iowa,0.03,622,622,1244
+Kansas,0.04,632,628,1260,Kansas,0.04,633,631,1265,Kansas,0.04,618,623,1241
+Kentucky,0.04,631,616,1247,Kentucky,0.04,630,618,1248,Kentucky,0.04,620,612,1232
+Louisiana,0.04,611,586,1198,Louisiana,0.04,615,595,1210,Louisiana,0.05,610,591,1200
+Maine,0.95,513,499,1012,Maine,0.99,512,501,1013,Maine,0.99,512,502,1013
+Maryland,0.69,536,52,1060,Maryland,0.76,545,535,1080,Maryland,0.82,535,523,1058
+Massachusetts,0.76,555,551,1107,Massachusetts,0.8,562,563,1125,Massachusetts,0.81,559,561,1120
+Michigan,1.0,509,495,1005,Michigan,1.0,511,499,1011,Michigan,1.0,507,496,1003
+Minnesota,0.03,644,651,1295,Minnesota,0.04,643,655,1298,Minnesota,0.04,636,648,1284
+Mississippi,0.02,634,607,1242,Mississippi,0.03,630,606,1236,Mississippi,0.03,628,608,1237
+Missouri,0.03,640,631,1271,Missouri,0.04,633,629,1262,Missouri,0.04,622,615,1236
+Montana,0.1,605,591,1196,Montana,0.1,606,592,1198,Montana,0.09,603,596,1199
+Nebraska,0.03,629,625,1253,Nebraska,0.03,629,623,1252,Nebraska,0.03,628,631,1260
+Nevada,0.26,563,553,1116,Nevada,0.23,574,566,1140,Nevada,0.2,580,576,1156
+New Hampshire,0.96,532,520,1052,New Hampshire,0.96,535,528,1063,New Hampshire,0.95,533,526,1059
+New Jersey,0.7,530,526,1056,New Jersey,0.82,547,547,1094,New Jersey,0.82,544,545,1090
+New Mexico,0.11,577,561,1138,New Mexico,0.16,552,540,1093,New Mexico,0.18,543,530,1073
+New York,0.67,528,523,1052,New York,0.79,534,534,1068,New York,0.79,531,533,1064
+North Carolina,0.49,546,535,1081,North Carolina,0.52,554,543,1098,North Carolina,0.51,554,546,1100
+North Dakota,0.02,635,621,1256,North Dakota,0.02,640,643,1283,North Dakota,0.02,627,636,1263
+Ohio,0.12,578,570,1149,Oklahoma,0.08,541,521,1062,Ohio,0.19,550,548,1097
+Oklahoma,0.07,530,517,1047,Ohio,0.18,552,547,1099,Oklahoma,0.22,490,472,963
+Oregon,0.43,560,548,1108,Oregon,0.48,564,553,1117,Oregon,0.51,562,550,1112
+Pennsylvania,0.65,540,531,1071,Pennsylvania,0.7,547,539,1086,Pennsylvania,0.7,545,537,1082
+Rhode Island,0.71,539,524,1062,Rhode Island,0.97,513,505,1018,Rhode Island,1.0,503,492,995
+South Carolina,0.5,543,521,1064,South Carolina,0.55,547,523,1070,South Carolina,0.68,526,504,1030
+South Dakota,0.03,612,603,1216,South Dakota,0.03,622,618,1240,South Dakota,0.03,633,635,1268
+Tennessee,0.05,623,604,1228,Tennessee,0.06,624,607,1231,Tennessee,0.07,618,602,1220
+Texas,0.62,513,507,1020,Texas,0.66,520,512,1032,Texas,0.68,515,507,1022
+Utah,0.03,624,614,1238,Utah,0.04,480,530,1010,Utah,0.04,614,615,1230
+Vermont,0.6,562,551,1114,Vermont,0.64,565,554,1120,Vermont,0.66,560,546,1106
+Virginia,0.65,561,541,1102,Virginia,0.68,567,550,1117,Virginia,0.68,567,551,1119
+Washington,0.64,541,534,1075,Washington,0.69,543,538,1081,Washington,0.7,539,535,1074
+West Virginia,0.14,558,528,1086,West Virginia,0.28,513,486,999,West Virginia,0.99,483,460,943
+Wisconsin,0.03,642,649,1291,Wisconsin,0.03,641,653,1294,Wisconsin,0.03,635,648,1283
+Wyoming,0.03,626,604,1230,Wyoming,0.03,633,625,1257,Wyoming,0.03,623,615,1238
