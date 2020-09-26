@@ -33,6 +33,10 @@ The features used in analysis are described below:
 
 Through EDA and Data Visualization, this study compares state participation in the SAT and ACT test from the years 2017 to 2019. While the ACT still has more states with 100% participation, the SAT has strong momentum in winning over previously ACT dominated states, and making strong inroads in states that have not made either the ACT or SAT a requirement yet.
 
+To step through the code used for this analysis, please see the 'sat_participation_analysis.ipynb' notebook in the 'code' directory. 
+
+For a high level overview of the findings, please see the 'SAT State Participation Strategy.pdf' in the main directory.
+
 
 ---
 
