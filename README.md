@@ -1,6 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Test Analysis
-
-## SAT State Participation Analysis, 2017-2018
+# SAT State Participation Analysis, 2017-2018
 by Adrian Chapman
 
 ### Problem Statement
